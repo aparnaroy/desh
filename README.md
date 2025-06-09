@@ -26,3 +26,4 @@ This is a simple shell (called "desh"). It has some "built-in" commands, but can
 1. Run `make`
 2. Run `./desh` OR `./desh input-file.txt`
 3. Enter in any "built-in" or external commands
+4. Enter `exit` to quit
