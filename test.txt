@@ -1,0 +1,37 @@
+which
+which ls
+ls
+prompt this should be ignored
+ls
+
+
+echo *
+ls *
+ls *.c
+ls -l sh.*
+ls -l s*.c
+ls -l s*h.c
+ls sh.?
+ls ?h.c
+ls *.?
+
+ls *.z
+
+
+
+which $HI
+
+echo $?
+echo $0
+
+addacc
+addacc 98
+addacc
+printenv ACC
+
+
+ls
+?echo Yes
+
+asdasdasdasd
+?echo No

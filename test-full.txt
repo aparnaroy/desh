@@ -1,0 +1,54 @@
+
+which
+which ls
+ls
+
+ls -l
+ls -l -a /proc/tty
+ls -l -F /proc/tty
+/bin/ls -l -g
+/bin/ls -l
+echo *
+ls *
+ls *.c
+ls -l sh.*
+ls -l s*.c
+ls -l s*h.c
+ls sh.?
+ls ?h.c
+ls *.?
+blah
+/blah
+ls -l /blah
+/usr/bin
+/bin/ls -la /
+file /bin/ls /bin/rm
+which ls rm
+list
+list / /usr /proc /bin
+cd
+pwd
+cd /blah
+cd /usr/bin /usr/ucb
+cd -
+pwd
+more sh.c
+cd /bin
+pwd
+./ls /
+../bin/ls /
+pid
+prompt
+prompt 361shell
+printenv PATH
+printenv
+setenv
+setenv TEST
+printenv TEST
+setenv TEST testing
+printenv TEST
+setenv TEST testing more
+setenv HOME /
+cd
+pwd
+exit
